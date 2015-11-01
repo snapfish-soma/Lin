@@ -8,7 +8,7 @@ This fork adds support to Xcode 7.1 and ``SFLocalizedString`` calls.
 
 ## Installation
 
-Download the project and build it, and then relaunch Xcode.  
+Download the project and run it, and then relaunch Xcode.  
 
 Lin will be installed in `~/Library/Application Support/Developer/Shared/Xcode/Plug-ins` automatically.
 
@@ -16,7 +16,7 @@ If you want to uninstall Lin, remove Lin.xcplugin in the `Plug-ins` directory.
 
 ## Notes
 
-* Xcode 7 or later is supported
+* Xcode 7.1 or later is supported
 * Supported functions
   * SFLocalizedString
   * NSLocalizedString
