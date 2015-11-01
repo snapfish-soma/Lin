@@ -1,8 +1,6 @@
 # Lin
 
-[Lin](https://github.com/questbeat/Lin) is a Xcode plugin that provides auto-completion for `NSLocalizedString`. Both Objective-C and Swift are supported.
-
-This fork adds support to Xcode 7.1 and ``SFLocalizedString`` calls.
+[Lin](https://github.com/questbeat/Lin) is a Xcode plugin that provides auto-completion for `NSLocalizedString`. Both Objective-C and Swift are supported. This fork adds Xcode 7.1 and ``SFLocalizedString()`` calls support.
 
 ![](https://cloud.githubusercontent.com/assets/4681556/10871435/a96f311c-809b-11e5-9d80-e87f694ea42e.png)
 
