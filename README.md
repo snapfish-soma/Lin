@@ -13,7 +13,9 @@ Clone the project and run:
 
 Lin will be installed in `~/Library/Application Support/Developer/Shared/Xcode/Plug-ins` automatically.
 
-If you want to uninstall Lin, remove Lin.xcplugin in the `Plug-ins` directory.
+If you want to uninstall Lin, remove Lin.xcplugin from the `Plug-ins` directory or simply run:
+
+1. `rake uninstall`
 
 ## Notes
 
